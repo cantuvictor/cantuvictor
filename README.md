@@ -2,6 +2,8 @@
 
 • Desenvolvedor Júnior
 
+• Acadêmico de Sistemas de Informação
+
 • Estudando Delphi
 
 • Conhecimento breve em Delphi, Java, SQL.
