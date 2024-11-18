@@ -1,10 +1,8 @@
 # Olá! Eu sou o Victor Cantu 👋
 
-• Desenvolvedor Júnior
+• Desenvolvedor Delphi Júnior
 
 • Acadêmico de Sistemas de Informação
-
-• Estudando Delphi
 
 • Conhecimento breve em Delphi, Java, SQL.
 <div style="display: inline_block"><br>
