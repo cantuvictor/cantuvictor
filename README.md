@@ -1,8 +1,8 @@
 # Olá! Eu sou o Victor Cantu 👋
 
-• Desenvolvedor Delphi Júnior
+• Desenvolvedor Delphi
 
-• Acadêmico de Sistemas de Informação
+• Acadêmico do 6º Período de Sistemas de Informação
 
 • Conhecimento em Delphi, SQL e Desenvolvimento de relatórios em Fast Report.
 <div style="display: inline_block"><br>
