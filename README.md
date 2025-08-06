@@ -5,24 +5,24 @@
  - 🛠️ Desenvolvedor Delphi.
 -  ## Skills
 
-- 📋 Linguagens:
+- 👨‍💻 Linguagens:
 
     ![Delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-- 📋 Bancos de Dados:
+- 🛢️ Bancos de Dados:
 
     ![Firebird](https://img.shields.io/badge/firebird-EE4000.svg?style=for-the-badge&logo=firebird&logoColor=orange)
     ![Oracke](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
-- 📋 Controle de Versão:
+- 🧬 Controle de Versão:
 
     ![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-- 📋 Outros:
+- 🖱️ Outros:
 
     ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
     ![FastReport](https://img.shields.io/badge/Fast%20Report-000000?style=for-the-badge&logoColor=white)
