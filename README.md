@@ -1,15 +1,32 @@
 # Olá! Eu sou o Victor Cantu 👋
 
-• Desenvolvedor Delphi
+-  ## Informações Pessoais
+ - 🎓 Estudante de Sistemas de Informação.
+ - 🛠️ Desenvolvedor Delphi.
+-  ## Skills
 
-• Acadêmico do 6º Período de Sistemas de Informação
+- 📋 Linguagens:
 
-• Conhecimento em Delphi, SQL e Desenvolvimento de relatórios em Fast Report.
-<div style="display: inline_block"><br>
-  <img align="center" alt="Will-C" height="40" width="40"src="https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png">
-  <img align="center" alt="Will-C" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg">
-  <img align="center" alt="Will-C" height="40" width="40"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8dH0EkDHh8p9R3xTskYb1PcySS9eWy9lcUw&s">
-</div>
+    ![Delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)
+    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+- 📋 Bancos de Dados:
+
+    ![Firebird](https://img.shields.io/badge/firebird-EE4000.svg?style=for-the-badge&logo=firebird&logoColor=orange)
+    ![Oracke](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+
+- 📋 Controle de Versão:
+
+    ![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+- 📋 Outros:
+
+    ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+    ![FastReport](https://img.shields.io/badge/Fast%20Report-000000?style=for-the-badge&logoColor=white)
+    ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
